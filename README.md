@@ -13,6 +13,9 @@
 
 🟢 https://github.com/nikzad-avasam/TG-dl
 
+<div align="center">
+<img src="icons/celebrate.gif" width=250 />
+</div>
 
 ## بروزرسانی ها و اطلاع رسانی ها 
 
